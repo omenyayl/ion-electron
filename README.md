@@ -6,6 +6,7 @@ Get Ionic and Cordova
 npm i -g ionic cordova
 ```
 
+Install dependencies
 ```
 npm install
 ```
